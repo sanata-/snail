@@ -1,3 +1,3 @@
 ### Coming soon
 
-![Placeholder](/images/snail.png)
+![Placeholder](/img/snail.png)
