@@ -3,13 +3,7 @@
 ## Quick Start
 ***
 
-###1 Download Snail for your platform.
-
-[LINUX_64](https://bitbucket.org/osfx/snail/downloads/snail_linux64.zip)
-
-[MAC_64](https://bitbucket.org/osfx/snail/downloads/snail_darwin.zip)
-
-[WINDOWS_64](https://bitbucket.org/osfx/snail/downloads/snail_windows.zip)
+###1 [Download](https://github.com/osfx/snail/releases/tag/v0.1.0-beta) Snail for your platform.
 
 ### 2 Create a config file with name Snailshell
 
